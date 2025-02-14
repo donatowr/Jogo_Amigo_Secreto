@@ -26,7 +26,7 @@ Como Executar o Jogo
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/donatowr/Jogo_Amigo_Secreto
 
 Acesse o diretório do projeto:
 
